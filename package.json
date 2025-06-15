@@ -16,11 +16,14 @@
     "netrc": "0.1.4",
     "progress": "2.0.3",
     "read": "1.0.5",
-    "request": "^2.88.0",
+    "@cypress/request": "^3.0.0",
     "surge-ignore": "0.2.0",
-    "surge-sdk": "0.6.4",
-    "surge-stream": "0.6.4",
     "url-parse-as-address": "1.0.0",
+    "axios": "^1.7.3",
+    "split": "^1.0.1",
+    "surge-fstream-ignore": "^1.1.0",
+    "surge-ignore": "^0.3.0",
+    "tarr": "^1.1.0",
     "xbytes": "^1.7.0"
   },
   "devDependencies": {
